@@ -1,5 +1,5 @@
 # Rope_Game
-first python project (replicating the "ladder toss" backyard game)
+Replicating the "ladder toss" backyard game
 
 ### What are the rules of the game?
 - There are two teams each team has three tosses
